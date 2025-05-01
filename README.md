@@ -1,6 +1,7 @@
-<img src="assets/red_star.png" width="120"/>
+<img src="assets/R.png" width="120"/>
 
-## [hris.sh](https://hris.sh) | hris github.com/7vix
+## [7vix.sh](https://7vix.sh) | 7vix
+   github.com/7vix
 >   $  @7vix_                  
 >   $  FULL-STACK-DEVELOPER                 
 >   ★  GFX & VFX               
