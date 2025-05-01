@@ -1,5 +1,5 @@
 
-<img src="R.png" width="120"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=7vix+on+top)](https://git.io/typing-svg)
+<img src="R.png" width="120"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=7vix+on+top;FULL-STACK-DEVELOPER)](https://git.io/typing-svg)
 
     github.com/7vix
        ★  @7vix_          
