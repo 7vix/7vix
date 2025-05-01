@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--https://readme-typing-svg.demolab.com/demo/?lines=7vix+on+top
 **7vix/7vix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
