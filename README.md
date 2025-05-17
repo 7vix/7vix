@@ -14,7 +14,7 @@
   
    ![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c70686f746f73686f702c7461696c77696e64](https://github.com/user-attachments/assets/c9b61fb6-e2fd-4af4-bfe9-ce08fe7dc289)
 
-<img alt="7vix's Stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=7vix&show_icons=true&theme=tokyonight"/>
-<img alt="Most used languages" align=left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7vix&show_icons=true&theme=tokyonight"/>
+<img alt="7vix's Stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=7vix&show_icons=true&theme=tokyonight"/>
+<img alt="Most used languages" align=left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7vix&show_icons=true&theme=tokyonight"/>
  
    
