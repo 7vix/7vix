@@ -2,7 +2,7 @@
 
     github.com/7vix
        ★  @7vix_          
-       ★  FULL-STACK-DEVELOPER
+       ★  Junior Developer
        ★  GFX & VFX               
    ![Profile views](https://komarev.com/ghpvc/?username=7vix&color=blue&style=flat&label=Profile+views)
 
